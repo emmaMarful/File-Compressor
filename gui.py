@@ -16,5 +16,3 @@ windows = user_interface.Window("File Compressor", layout)
 
 windows.read()
 windows.close()
-
-git
